@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Github Training Day 1
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
