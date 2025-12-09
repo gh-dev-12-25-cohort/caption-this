@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to GIT-World"
 ---
 
-Caption here
+Hi from Azhar!
 
 ![poptocat](https://octodex.github.com/images/manufacturetocat.png)
 {: .center}
