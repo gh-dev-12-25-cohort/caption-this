@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Irfan Tahir - This is the way
 
 ![skatetocat](https://octodex.github.com/images/skatetocat.png)
 {: .center}
