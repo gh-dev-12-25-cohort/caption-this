@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to GIT-World"
 ---
 
 Caption here
 
-![poptocat](https://octodex.github.com/images/poptocat.png)
+![poptocat](https://octodex.github.com/images/manufacturetocat.png)
 {: .center}
